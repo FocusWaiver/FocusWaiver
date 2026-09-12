@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @FocusWaiver
 - 👀 I’m interested in learning useful languages for bioinformatics/data analysis
 - 🌱 I’m currently learning python and R with other languages to follow
-- My profile picture is a GENUINE groundhog, just chillin' 
+- My avatar is a GENUINE groundhog, just chillin' 
